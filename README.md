@@ -11,4 +11,5 @@ Music and more
 
 5. Occupation Precipice is the most listed track.
 
-   ![Uploading image.png…]()
+   ![image](https://github.com/Rebecca1061/Data-Analysis-Project-9/assets/152878222/26cd4f71-0ed6-4b82-b5fd-e1f79902688c)
+
